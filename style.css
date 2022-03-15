@@ -1,0 +1,12 @@
+.col{
+    transition:transform 0.3s ;
+}
+.col:hover{
+    transform: scale(1.1);
+}
+.product{
+    transition:transform 0.3s ;
+}
+.product:hover{
+    transform: scale(1.1);
+}
